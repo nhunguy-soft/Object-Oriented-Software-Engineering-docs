@@ -1,5 +1,7 @@
 Lập trình hướng đối tượng (OOP) và lập trình thủ tục (POP) là hai phương pháp lập trình phổ biến. Trong khi POP tập trung vào các thủ tục hoặc hàm để thực hiện các tác vụ, OOP lại tập trung vào việc tổ chức chương trình xung quanh các đối tượng, bao gồm dữ liệu và các phương thức để thao tác dữ liệu đó.
 
+---
+
 ## So sánh chi tiết:
 
 | Đặc điểm                    | Lập trình thủ tục (POP)                                       | Lập trình hướng đối tượng (OOP)                                                                                          |
@@ -31,6 +33,8 @@ OOP cung cấp các cơ chế bảo mật dữ liệu tốt hơn, giúp bảo v�
 ### Tính trừu tượng hóa:
 
 OOP cho phép che giấu các chi tiết thực thi bên trong các đối tượng, giúp người dùng chỉ quan tâm đến giao diện của đối tượng.
+
+---
 
 ## Kết luận:
 
